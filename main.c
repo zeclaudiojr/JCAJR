@@ -39,6 +39,7 @@ void menu_cadasClie(void){
     printf("Digite a quantidade do produto\n");
     printf("Digite a cor do produto\n");
     printf("Digite o tamanho do produto\n");
+    
     printf(" \n");
     printf(" \n");
 
