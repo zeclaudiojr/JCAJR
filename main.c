@@ -44,3 +44,17 @@ void menu_cadasClie(void){
 
 
 }
+
+void menu_regVendas(void){
+
+    system("clear");
+    printf("Digite a data desejada\n");
+    printf(" \n");
+    printf(" \n");
+    printf(" \n");
+    printf(" \n");
+    printf(" \n");
+    printf(" \n");
+
+
+}
