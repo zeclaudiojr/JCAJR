@@ -3,10 +3,24 @@
 
 
 
+void menu_principal(void){
+
+    system("clear");
+    printf("======= SIG INVENTORY: Controle de estoque =======\n");
+    printf(" 01 - Cadastro de produtos e clientes: \n");
+    printf(" 02 - Histórico de compras e vendas: \n");
+    printf(" 03 - Buscar produto: \n");
+    printf(" 04 - Relatório de movimentações: \n");
+    printf(" 05 - Quem somos\n");
+    printf(" 06 - Sair\n");
+    printf("Digite a opção desejada: \n");
+
+
+}
 void mostrar_menu(void){
 
     system("clear");
-    printf("=======SIG INVENTORY: Controle de estoque=======\n");
+    printf(" \n");
     printf(" 01 - Cadastro de produtos: \n");
     printf(" 02 - Cadastro de clientes: \n");
     printf(" 03 - Resistro de vendas: \n");
@@ -21,14 +35,18 @@ void mostrar_menu(void){
 void menu_cadasProd(void){
 
     system("clear");
-    printf("Digite o nome do produto: \n");
-    printf("Digite o marca do produto: \n");
-    printf("Digite a quantidade do produto: \n");
-    printf("Digite a cor do produto: \n");
-    printf("Digite o tamanho do produto: \n");
-    printf("Digite o valor do produto: \n");
-    printf(" \n");
-    printf(" \n");
+    printf("Informe o nome do produto: \n");
+    printf("Faça a descrição do produto: \n");
+    printf("Informe a marca do produto: \n");
+    printf("Informe o modelo do produto: \n");
+    printf("Informe a quantidade do produto: \n");
+    printf("Informe a cor do produto: \n");
+    printf("Informe o tamanho do produto: \n");
+    printf("Informe a validade do produto: \n");
+    printf("Informe a localização do produto: \n");
+    printf("Informe o valor de compra do produto: \n");
+    printf("Informe o valor de venda do produto:  \n");
+    printf("Informe a quantidade mínima e máxima para o produto: \n");
 
 
 }
