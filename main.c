@@ -35,11 +35,10 @@ void menu_cadasClie(void){
 
     system("clear");
     printf("Digite o nome do cliente\n");
-    printf("Digite o marca do produto\n");
-    printf("Digite a quantidade do produto\n");
-    printf("Digite a cor do produto\n");
-    printf("Digite o tamanho do produto\n");
-    
+    printf("Digite o CPF do cliente\n");
+    printf("Digite o número de contato do cliente\n");
+    printf("Digite o e-mail do cliente\n");
+    printf(" \n");
     printf(" \n");
     printf(" \n");
 
