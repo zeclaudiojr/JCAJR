@@ -17,16 +17,16 @@ void mostrar_menu(void){
 
 }
 
-void menu_cadastr(void){
+void menu_cadasProd(void){
 
     system("clear");
-    printf("=======SIG INVENTORY: Controle de estoque=======\n");
-    printf(" 01 - Cadastro de produtos\n");
-    printf(" 02 - Cadastro de clientes\n");
-    printf(" 03 - Resistro de vendas\n");
-    printf(" 04 - Relatório de movimentações\n");
-    printf(" 05 - Quem somos\n");
-    printf(" 06 - Sair\n");
+    printf("Digite o nome do produto\n");
+    printf("Digite o marca do produto\n");
+    printf("Digite a quantidade do produto\n");
+    printf("Digite a cor do produto\n");
+    printf("Digite o tamanho do produto\n");
+    printf(" \n");
+    printf(" \n");
 
 
 }
