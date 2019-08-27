@@ -83,7 +83,7 @@ void menu_regMov(void){
 
     system("clear");
     printf("Digite o período desejado: \n");
-    printf(" \n");
+    printf(" nnnnnnnnnnnnn\n");
     printf(" \n");
     printf(" \n");
     printf(" \n");
